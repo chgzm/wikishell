@@ -4,7 +4,7 @@ A bash script for getting the lead sentence of Wikipedia artiles from command li
 Get xml data from Entligh Wikipedia API (https://en.wikipedia.org/w/api.php) or Japanese Wikipeida API (https://ja.wikipedia.org/w/api.php), extract a first sentence and remove markup tags.
 
 ## Usage
-./wikishell [Options] <word>
+./wikishell [Options] word
   
 |Option         | Description    |
 |---------------|----------------|
